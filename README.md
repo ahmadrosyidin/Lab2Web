@@ -25,4 +25,23 @@
 
 <b>4. MEMBUAT CSS EKSTERNAL
   
-<br><i>
+<br><i>Buat file css baru pada visual studio untuk mengedit style eksternal
+  ![image](https://user-images.githubusercontent.com/81254764/113339819-3b389800-9355-11eb-8c67-0e11cb0fe4d5.png)
+
+<br><i>Tambahkan perintah pada file html agar dapat menuju ke css
+  ![image](https://user-images.githubusercontent.com/81254764/113340093-a4b8a680-9355-11eb-87ac-7170a9aed4da.png)
+
+<br><i>Tampilan akan berubah seperti pada gambar berikut
+  ![image](https://user-images.githubusercontent.com/81254764/113339872-53a8b280-9355-11eb-9ca5-00553cd7b044.png)
+
+
+<b>5. MENAMBAHKAN CSS SELECTOR
+  
+ <br><i>Ketikan perintah pada stle_eksternal.css seperti berikut
+  ![image](https://user-images.githubusercontent.com/81254764/113341467-64f2be80-9357-11eb-895d-23008c114c71.png)
+
+<br><i>Lalu lihat hasilnya
+  ![image](https://user-images.githubusercontent.com/81254764/113341624-910e3f80-9357-11eb-850d-24f84288a66b.png)
+
+
+Selesai
