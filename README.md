@@ -48,6 +48,8 @@ Selesai
 
 
 -Perbedaan dari intro dan intro h1? pada elemen intro digunakan agar teks berada pada posisi center, sedangkan intro h1 membuat teks rata samping kiri.
--deklarasi inetrnal pada css akan berubah jika arah linknya menuju pada internial
+
+-deklarasi internal pada css akan berubah jika arah linknya menuju pada internal
 ![image](https://user-images.githubusercontent.com/81254764/113342845-32e25c00-9359-11eb-9a72-eb50650b0f11.png)
+
 -
