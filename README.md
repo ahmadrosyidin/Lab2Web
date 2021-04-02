@@ -40,7 +40,7 @@
  <br><i>Ketikan perintah pada stle_eksternal.css seperti berikut
   ![image](https://user-images.githubusercontent.com/81254764/113341467-64f2be80-9357-11eb-895d-23008c114c71.png)
 
-<br><i>Lalu lihat hasilnya
+<br><i>Lalu lihat hasilnya<i>
   ![image](https://user-images.githubusercontent.com/81254764/113341624-910e3f80-9357-11eb-850d-24f84288a66b.png)
 
 
@@ -49,7 +49,7 @@ Selesai
 
 - Perbedaan dari intro dan intro h1? pada elemen intro digunakan agar teks berada pada posisi center, sedangkan intro h1 membuat teks rata samping kiri.
 
-- Deklarasi internal pada css akan berubah jika arah linknya menuju pada internal
+- Deklarasi eksternal pada css akan berubah jika arah linknya menuju pada internal
 ![image](https://user-images.githubusercontent.com/81254764/113342845-32e25c00-9359-11eb-9a72-eb50650b0f11.png)
 
--
+- 
