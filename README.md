@@ -1,46 +1,46 @@
-<b>1. MEMBUAT DOKUMEN HTML
+<b>1. MEMBUAT DOKUMEN HTML</b>
   
-<br><i>Buka visual studio code dan ketikan perintah seperi berikut.
+<br><i>Buka visual studio code dan ketikan perintah seperi berikut.</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113333931-438cd500-934d-11eb-896b-27ec3545493c.png)
 
-<br><i>Setelah itu jangan lupa untuk disimpan, lalu buka pada browser.
+<br><i>Setelah itu jangan lupa untuk disimpan, lalu buka pada browser.</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113334366-d3328380-934d-11eb-85ca-e0b7497c5cb3.png)
 
 
-<b>2. MENDEKLARASIKAN CSS INTERNAL
+<b>2. MENDEKLARASIKAN CSS INTERNAL</b>
   
-<br><i>Tambahkan perintah seperti pada gambar berikut yang di tandai
+<br><i>Tambahkan perintah seperti pada gambar berikut yang di tandai</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113335076-aa5ebe00-934e-11eb-85a5-051f158757ce.png)
 
-<br><i>Jangan lupa untuk menyimpan setiap ada perubahan, lalu buka pada browser kembali dan refresh
+<br><i>Jangan lupa untuk menyimpan setiap ada perubahan, lalu buka pada browser kembali dan refresh</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113335657-72a44600-934f-11eb-83b5-8759612497fe.png)
 
 
-<b>3. MENAMBAHKAN INLINE CSS
+<b>3. MENAMBAHKAN INLINE CSS</b>
  
-<br><i>Membuat teks menjadi transparant dan rata tengah
+<br><i>Membuat teks menjadi transparant dan rata tengah</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113336378-84d2b400-9350-11eb-9d71-9e98131c35be.png)
   ![image](https://user-images.githubusercontent.com/81254764/113336500-b3508f00-9350-11eb-8f35-b4e475d4c594.png)
 
 
-<b>4. MEMBUAT CSS EKSTERNAL
+<b>4. MEMBUAT CSS EKSTERNAL</b>
   
-<br><i>Buat file css baru pada visual studio untuk mengedit style eksternal
+<br><i>Buat file css baru pada visual studio untuk mengedit style eksternal</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113339819-3b389800-9355-11eb-8c67-0e11cb0fe4d5.png)
 
-<br><i>Tambahkan perintah pada file html agar dapat menuju ke css
+<br><i>Tambahkan perintah pada file html agar dapat menuju ke css</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113340093-a4b8a680-9355-11eb-87ac-7170a9aed4da.png)
 
 <br><i>Tampilan akan berubah seperti pada gambar berikut
   ![image](https://user-images.githubusercontent.com/81254764/113339872-53a8b280-9355-11eb-9ca5-00553cd7b044.png)
 
 
-<b>5. MENAMBAHKAN CSS SELECTOR
+<b>5. MENAMBAHKAN CSS SELECTOR</b>
   
  <br><i>Ketikan perintah pada stle_eksternal.css seperti berikut
   ![image](https://user-images.githubusercontent.com/81254764/113341467-64f2be80-9357-11eb-895d-23008c114c71.png)
 
-<br><i>Lalu lihat hasilnya<i>
+<br><i>Lalu lihat hasilnya</br></i>
   ![image](https://user-images.githubusercontent.com/81254764/113341624-910e3f80-9357-11eb-850d-24f84288a66b.png)
 
 
